@@ -6,27 +6,24 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors     Zvonimir Haramustek for www.soldered.com.com
  ***************************************************/
 
 
-#include "Generic-easyC-SOLDERED.h"
+#include "MCP23017-SOLDERED.h"
 
 /**
  * @brief                   Sensor specific native constructor.
  *
  * @param int _pin          Example parameter.
  */
-Sensor::Sensor(int _pin)
-{
-    pin = _pin;
-    native = 1;
-}
+// MCP_23017::MCP_23017()
+// {
+// }
 
 /**
  * @brief                   Overloaded function for virtual in base class to initialize sensor specific.
  */
-void Sensor::initializeNative()
-{
-    pinMode(pin, INPUT);
-}
+// void MCP_23017::initializeNative()
+// {
+// }
