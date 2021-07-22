@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['generic_2deasyc_2dsoldered_2ecpp_8',['Generic-easyC-SOLDERED.cpp',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['generic_2deasyc_2dsoldered_2eh_9',['Generic-easyC-SOLDERED.h',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
+  ['initializenative_8',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_m_c_p__23017.html#ad87deec5e53fb924c0181ad06b1c4b09',1,'MCP_23017::initializeNative()']]]
 ];
