@@ -6,11 +6,26 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+MCP23017Port
+MCP23017InterruptMode
+MCP23017Register
+MCP_23017
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
 begin	KEYWORD2
+begin	KEYWORD2
+pinMode KEYWORD2
+portMode KEYWORD2
+digitalWrite KEYWORD2
+digitalRead KEYWORD2
+interruptMode KEYWORD2
+interrupt KEYWORD2
+disableInterrupt KEYWORD2
+interruptedBy KEYWORD2
+clearInterrupts KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)

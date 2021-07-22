@@ -1,12 +1,12 @@
 /**
  **************************************************
  *
- * @file        Generic-easyC-SOLDERED.h
+ * @file        easyC.h
  * @brief       Basic funtions for easyC libraries
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors     Zvonimir Haramustek for www.soldered.com.com
  ***************************************************/
 
 #ifndef __EASYC_LIBRARY__
