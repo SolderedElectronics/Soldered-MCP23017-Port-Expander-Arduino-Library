@@ -21,7 +21,7 @@ You can find hardware design for this board in MCP23017 Board hardware repositor
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-MCP23017-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the MCP23017 easyC board
 - Installing an Arduino library
 
 ### About Soldered
