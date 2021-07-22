@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['initializenative_28',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_m_c_p__23017.html#ad87deec5e53fb924c0181ad06b1c4b09',1,'MCP_23017::initializeNative()']]]
+  ['debug_87',['debug',['../class_m_c_p23017.html#a0511f5c8cf30b3f06a447fdb1473bf5f',1,'MCP23017']]],
+  ['digitalread_88',['digitalRead',['../class_m_c_p23017.html#a47eb64469c2dc6d1b9e0ba7637f0bebd',1,'MCP23017']]],
+  ['digitalwrite_89',['digitalWrite',['../class_m_c_p23017.html#a148aa7b0464c6bee4d50ab591636605b',1,'MCP23017']]],
+  ['disableinterrupt_90',['disableInterrupt',['../class_m_c_p23017.html#abcd27237ba9a48fefd105363802ca948',1,'MCP23017']]]
 ];

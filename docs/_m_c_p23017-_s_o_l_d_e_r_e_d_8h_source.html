@@ -96,7 +96,7 @@ $(document).ready(function(){initNavTree('_m_c_p23017-_s_o_l_d_e_r_e_d_8h_source
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160; </div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="preprocessor">#include &quot;Arduino.h&quot;</span></div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="easy_c_8h.html">libs/Generic-easyC/easyC.h</a>&quot;</span></div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#include &quot;libs/arduino-mcp23017/src/MCP23017.h&quot;</span></div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_m_c_p23017_8h.html">libs/arduino-mcp23017/src/MCP23017.h</a>&quot;</span></div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="preprocessor">#define GPA0 0</span></div>
 <div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#define GPA1 1</span></div>
@@ -116,17 +116,17 @@ $(document).ready(function(){initNavTree('_m_c_p23017-_s_o_l_d_e_r_e_d_8h_source
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="preprocessor">#define GPB6 14</span></div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor">#define GPB7 15</span></div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160; </div>
-<div class="line"><a name="l00037"></a><span class="lineno"><a class="line" href="class_m_c_p__23017.html">   37</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_m_c_p__23017.html">MCP_23017</a> : <span class="keyword">public</span> MCP23017, <span class="keyword">public</span> <a class="code" href="class_easy_c.html">EasyC</a></div>
+<div class="line"><a name="l00037"></a><span class="lineno"><a class="line" href="class_m_c_p__23017.html">   37</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_m_c_p__23017.html">MCP_23017</a> : <span class="keyword">public</span> <a class="code" href="class_m_c_p23017.html">MCP23017</a>, <span class="keyword">public</span> <a class="code" href="class_easy_c.html">EasyC</a></div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;{</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;  <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="class_m_c_p__23017.html#a2925ee0826bad7909e9a38be30bf3a7f">   40</a></span>&#160;    <a class="code" href="class_m_c_p__23017.html#a2925ee0826bad7909e9a38be30bf3a7f">MCP_23017</a>() : MCP23017(0x27, Wire) <span class="comment">// EasyC / hardware I2C</span></div>
+<div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="class_m_c_p__23017.html#a2925ee0826bad7909e9a38be30bf3a7f">   40</a></span>&#160;    <a class="code" href="class_m_c_p__23017.html#a2925ee0826bad7909e9a38be30bf3a7f">MCP_23017</a>() : <a class="code" href="class_m_c_p23017.html">MCP23017</a>(0x27, Wire) <span class="comment">// EasyC / hardware I2C</span></div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    {</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    }</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160; </div>
 <div class="line"><a name="l00044"></a><span class="lineno"><a class="line" href="class_m_c_p__23017.html#afd0d0372aa085d7af1eaa9e3111ff20a">   44</a></span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_m_c_p__23017.html#afd0d0372aa085d7af1eaa9e3111ff20a">begin</a>()</div>
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    {</div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;        Wire.begin();</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;        init();</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;        <a class="code" href="class_m_c_p23017.html#ad4c300620b841f0ab9b3f7e11b88314c">init</a>();</div>
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    }</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160; </div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;  <span class="keyword">protected</span>:</div>
@@ -136,7 +136,10 @@ $(document).ready(function(){initNavTree('_m_c_p23017-_s_o_l_d_e_r_e_d_8h_source
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;};</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160; </div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="ttc" id="a_m_c_p23017_8h_html"><div class="ttname"><a href="_m_c_p23017_8h.html">MCP23017.h</a></div></div>
 <div class="ttc" id="aclass_easy_c_html"><div class="ttname"><a href="class_easy_c.html">EasyC</a></div><div class="ttdef"><b>Definition:</b> easyC.h:22</div></div>
+<div class="ttc" id="aclass_m_c_p23017_html"><div class="ttname"><a href="class_m_c_p23017.html">MCP23017</a></div><div class="ttdef"><b>Definition:</b> MCP23017.h:59</div></div>
+<div class="ttc" id="aclass_m_c_p23017_html_ad4c300620b841f0ab9b3f7e11b88314c"><div class="ttname"><a href="class_m_c_p23017.html#ad4c300620b841f0ab9b3f7e11b88314c">MCP23017::init</a></div><div class="ttdeci">void init()</div><div class="ttdef"><b>Definition:</b> MCP23017.cpp:10</div></div>
 <div class="ttc" id="aclass_m_c_p__23017_html"><div class="ttname"><a href="class_m_c_p__23017.html">MCP_23017</a></div><div class="ttdef"><b>Definition:</b> MCP23017-SOLDERED.h:38</div></div>
 <div class="ttc" id="aclass_m_c_p__23017_html_a2925ee0826bad7909e9a38be30bf3a7f"><div class="ttname"><a href="class_m_c_p__23017.html#a2925ee0826bad7909e9a38be30bf3a7f">MCP_23017::MCP_23017</a></div><div class="ttdeci">MCP_23017()</div><div class="ttdef"><b>Definition:</b> MCP23017-SOLDERED.h:40</div></div>
 <div class="ttc" id="aclass_m_c_p__23017_html_ad87deec5e53fb924c0181ad06b1c4b09"><div class="ttname"><a href="class_m_c_p__23017.html#ad87deec5e53fb924c0181ad06b1c4b09">MCP_23017::initializeNative</a></div><div class="ttdeci">void initializeNative()</div><div class="ttdef"><b>Definition:</b> MCP23017-SOLDERED.h:51</div></div>
@@ -150,7 +153,7 @@ $(document).ready(function(){initNavTree('_m_c_p23017-_s_o_l_d_e_r_e_d_8h_source
     <ul>
         <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="_m_c_p23017-_s_o_l_d_e_r_e_d_8h.html">MCP23017-SOLDERED.h</a></li>
         <li class="footer">
-            Generated on Thu Jul 22 2021 12:03:00 for MCP_23017 Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Thu Jul 22 2021 12:03:50 for MCP_23017 Library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

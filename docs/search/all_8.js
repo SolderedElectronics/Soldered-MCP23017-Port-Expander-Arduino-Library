@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['sendaddress_17',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_18',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]]
+  ['license_41',['LICENSE',['../md_src_libs_arduino_mcp23017__l_i_c_e_n_s_e.html',1,'']]],
+  ['license_2emd_42',['LICENSE.md',['../_l_i_c_e_n_s_e_8md.html',1,'']]]
 ];
