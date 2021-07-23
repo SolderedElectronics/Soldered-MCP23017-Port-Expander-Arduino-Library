@@ -9,8 +9,8 @@
  * @authors     Zvonimir Haramustek for www.soldered.com.com
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef __MCP23017_SOLDERED__
+#define __MCP23017_SOLDERED__
 
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.h"
