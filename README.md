@@ -1,6 +1,6 @@
 # MCP23017 Board Arduino library
 
-[![Compile Sketches](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/compile_test.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/compile_test.yml)
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/make_docs.yml)
 
 | ![MCP23017 Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)        |
