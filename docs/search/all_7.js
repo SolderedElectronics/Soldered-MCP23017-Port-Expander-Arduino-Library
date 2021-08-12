@@ -1,7 +1,7 @@
 var searchData=
 [
   ['init_25',['init',['../class_m_c_p23017.html#ad4c300620b841f0ab9b3f7e11b88314c',1,'MCP23017']]],
-  ['initializenative_26',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_m_c_p__23017.html#ad87deec5e53fb924c0181ad06b1c4b09',1,'MCP_23017::initializeNative()']]],
+  ['initializenative_26',['initializeNative',['../class_m_c_p23017___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a71087e80cd33b0278b83534cfc458af2',1,'MCP23017_SOLDERED_LIBS::EasyC::initializeNative()'],['../class_m_c_p__23017.html#ad87deec5e53fb924c0181ad06b1c4b09',1,'MCP_23017::initializeNative()']]],
   ['intcap_5fa_27',['INTCAP_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a5f5d8895c5e7c818cd46e3bab503fd29',1,'MCP23017.h']]],
   ['intcap_5fb_28',['INTCAP_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0afaf749c30bc70064eac7a489bdb663de',1,'MCP23017.h']]],
   ['intcon_5fa_29',['INTCON_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aae939399633a19df2d5168a9aa02502e',1,'MCP23017.h']]],

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['debug_8',['debug',['../class_m_c_p23017.html#a0511f5c8cf30b3f06a447fdb1473bf5f',1,'MCP23017']]],
-  ['defaultaddress_9',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
+  ['defaultaddress_9',['defaultAddress',['../class_m_c_p23017___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#adabebf796b568f469f6e6b42cfec3f66',1,'MCP23017_SOLDERED_LIBS::EasyC']]],
   ['defval_5fa_10',['DEFVAL_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a07f06e85d30cfe159f61f6a4df5e8bf1',1,'MCP23017.h']]],
   ['defval_5fb_11',['DEFVAL_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a0039abd9aaf6e00d2a6838d9a6f7ae20',1,'MCP23017.h']]],
   ['digitalread_12',['digitalRead',['../class_m_c_p23017.html#a47eb64469c2dc6d1b9e0ba7637f0bebd',1,'MCP23017']]],
