@@ -6,7 +6,7 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     Zvonimir Haramustek for www.soldered.com.com
+ * @authors     @ soldered.com
  ***************************************************/
 
 #ifndef __EASYC_LIBRARY__
@@ -17,6 +17,9 @@
 
 #define ANALOG_READ_REG  0
 #define DIGITAL_READ_REG 1
+
+namespace MCP23017_SOLDERED_LIBS
+{
 
 class EasyC
 {
@@ -42,5 +45,7 @@ class EasyC
     int sendData(const uint8_t *a, int n);
     int readRegister(char regAddr, char a[], size_t n);
 };
+
+} // namespace MCP23017_SOLDERED_LIBS
 
 #endif

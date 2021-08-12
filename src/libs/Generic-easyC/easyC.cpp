@@ -6,10 +6,13 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     Zvonimir Haramustek for www.soldered.com.com
+ * @authors     @ soldered.com
  ***************************************************/
 
 #include "easyC.h"
+
+namespace MCP23017_SOLDERED_LIBS
+{
 
 /**
  * @brief       Main constructor for easyC version
@@ -113,3 +116,5 @@ int EasyC::sendData(const uint8_t *a, int n)
 
     return err = Wire.endTransmission();
 }
+
+} // namespace MCP23017_SOLDERED_LIBS
