@@ -34,7 +34,7 @@
 #define GPB6 14
 #define GPB7 15
 
-class MCP_23017 : public MCP23017, public MCP23017_SOLDERED_LIBS::EasyC
+class MCP_23017 : public MCP23017, public EasyC
 {
   public:
     MCP_23017() : MCP23017(0x27, Wire) // EasyC / hardware I2C
