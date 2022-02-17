@@ -13,7 +13,7 @@
 #define __MCP23017_SOLDERED__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
+#include "libs/Generic-easyC/easyC.hpp"
 #include "libs/arduino-mcp23017/src/MCP23017.h"
 
 #define GPA0 0
