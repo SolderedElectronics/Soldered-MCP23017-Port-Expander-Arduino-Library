@@ -27,9 +27,6 @@ var NAVTREE =
   [ "MCP_23017 Library", "index.html", [
     [ "MCP23017 Board Arduino library", "index.html", null ],
     [ "LICENSE", "md_src_libs_arduino_mcp23017__l_i_c_e_n_s_e.html", null ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ]
-    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
