@@ -1,11 +1,11 @@
 # MCP23017 Board Arduino library
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/compile_test.yml)
-[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/actions/workflows/make_docs.yml)
+[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-MCP23017-Port-Expander-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-MCP23017-Port-Expander-Arduino-Library/actions/workflows/compile_test.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-MCP23017-Port-Expander-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-MCP23017-Port-Expander-Arduino-Library/actions/workflows/make_docs.yml)
 
-| ![MCP23017 Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)        |
+| ![IO expander MCP23017 breakout Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)        |
 | :---------------------------------------------------------------------------------------------: |
-| [MCP23017 Board](https://www.solde.red/SKU)                                                     |
+| [IO expander MCP23017 breakout Board](https://www.solde.red/333007)                                                     |
 
 MCP23017 allows us to add 16 pins over I2C while supporting the [easyC ecosystem](https://www.soldered.com/easyC). 
 
@@ -15,17 +15,17 @@ MCP23017 allows us to add 16 pins over I2C while supporting the [easyC ecosystem
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in MCP23017 Board hardware repository
+You can find hardware design for this board in IO expander MCP23017 breakout hardware repository
 
 ### Documentation
 
-Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-MCP23017-Arduino-Library/).
+Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-MCP23017-Port-Expander-Arduino-Library/).
 
-- Tutorial for using the MCP23017 easyC board
+- Tutorial for using the IO expander MCP23017 breakout board
 - Installing an Arduino library
 
 ### About Soldered
-![Soldered logo](https://raw.githubusercontent.com/e-radionicacom/Soldered-MCP23017-Arduino-Library/dev/extras/Logo%20horizontal-2.svg)
+![Soldered logo](https://raw.githubusercontent.com/e-radionicacom/Soldered-MCP23017-Port-Expander-Arduino-Library/dev/extras/Logo%20horizontal-2.svg)
 
 At Soldered, we design and manufacture a wide selection of electronic products to help you turn your ideas into acts and bring you one step closer to your final project. Our products are intented for makers and crafted in-house by our experienced team in Osijek, Croatia. We believe that sharing is a crucial element for improvement and innovation, and we work hard to stay connected with all our makers regardless of their skill or experience level. Therefore, all our products are open-source. Finally, we always have your back. If you face any problem concerning either your shopping experience or your electronics project, our team will help you deal with it, offering efficient customer service and cost-free technical support anytime. Some of those might be useful for you:
 
