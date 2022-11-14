@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Arduino library
+# IO expander MCP23017 breakout Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
 
@@ -6,17 +6,17 @@
 | :---------------------------------------------------------------------------------------------: |
 | [IO expander MCP23017 breakout](https://www.solde.red/333007)                                                            |
 
-OPIS PROIZVODA [Are you short on IO pins? Looking to increase the number of them? That’s what the GPIO Expander MCP23017 is for! It uses I2C communication to do so. With just two wires, 16 new fully configurable digital IO pins are added to a microcontroller.
+Are you short on IO pins? Looking to increase the number of them? That’s what the GPIO Expander MCP23017 is for! It uses I2C communication to do so. With just two wires, 16 new fully configurable digital IO pins are added to a microcontroller.
 
 Due to the jumpers on the board, the I2C address of a device can be changed. Thus, eight breakout boards can be connected to a microcontroller. All of the pins on the expander board have pull-out resistors that can be turned on and off.
 
-Dimensions: 38 mm x 22 mm
-Standby current consumption: 1 μAStandard current consumption:  1 mA
-Logic voltage level: 5V
-Operating voltage: 1.8V to 5.5V
-Communication: I2C (address: 0x27)
-Connectors: easyC x2
-Mounting holes: 2]
+- Dimensions: 38 mm x 22 mm
+- Standby current consumption: 1 μAStandard current consumption:  1 mA
+- Logic voltage level: 5V
+- Operating voltage: 1.8V to 5.5V
+- Communication: I2C (address: 0x27)
+- Connectors: easyC x2
+- Mounting holes: 2(https://www.soldered.com/en/easyC). 
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
@@ -24,7 +24,7 @@ Mounting holes: 2]
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in *IO expander MCP23017 breakout* hardware repository.
+You can find hardware design for this board in [*IO expander MCP23017 breakout*](https://github.com/SolderedElectronics/IO-expander-MCP23017-breakout-hardware-design) hardware repository.
 
 ### Documentation
 
