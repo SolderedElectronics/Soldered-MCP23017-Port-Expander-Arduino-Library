@@ -17,7 +17,7 @@ Due to the jumpers on the board, the I2C address of a device can be changed. Thu
 - Communication: I2C (address: 0x27)
 - Connectors: easyC x2
 - Mounting holes: 2
-https://www.soldered.com/en/easyC
+(https://www.soldered.com/en/easyC)
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
