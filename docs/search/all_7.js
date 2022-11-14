@@ -11,9 +11,10 @@ var searchData=
   ['interruptmode_8',['interruptMode',['../class_m_c_p23017.html#ab299fa52206142cc67f448ea80977f3c',1,'MCP23017']]],
   ['intf_5fa_9',['INTF_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aac72176752e7e483699b9bc32cb9a972',1,'MCP23017.h']]],
   ['intf_5fb_10',['INTF_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0afaeaddee109eddc54ed92d574a82a60b',1,'MCP23017.h']]],
-  ['iocon_11',['IOCON',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aef5d75b293fecbb4c76105c493cc2d44',1,'MCP23017.h']]],
-  ['iodir_5fa_12',['IODIR_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0acd60497c44082119edcd536748cfcfe1',1,'MCP23017.h']]],
-  ['iodir_5fb_13',['IODIR_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a561877981d50f267d2e2441844331164',1,'MCP23017.h']]],
-  ['ipol_5fa_14',['IPOL_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0ab890f57bc5f0827e12f899f058c2fb87',1,'MCP23017.h']]],
-  ['ipol_5fb_15',['IPOL_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aa292b36a488f3fa9d045d083636f6656',1,'MCP23017.h']]]
+  ['io_20expander_20mcp23017_20breakout_20arduino_20library_11',['IO expander MCP23017 breakout Arduino library',['../index.html',1,'']]],
+  ['iocon_12',['IOCON',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aef5d75b293fecbb4c76105c493cc2d44',1,'MCP23017.h']]],
+  ['iodir_5fa_13',['IODIR_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0acd60497c44082119edcd536748cfcfe1',1,'MCP23017.h']]],
+  ['iodir_5fb_14',['IODIR_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a561877981d50f267d2e2441844331164',1,'MCP23017.h']]],
+  ['ipol_5fa_15',['IPOL_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0ab890f57bc5f0827e12f899f058c2fb87',1,'MCP23017.h']]],
+  ['ipol_5fb_16',['IPOL_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aa292b36a488f3fa9d045d083636f6656',1,'MCP23017.h']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['license_0',['LICENSE',['../md_src_libs_arduino_mcp23017__l_i_c_e_n_s_e.html',1,'']]]
+  ['io_20expander_20mcp23017_20breakout_20arduino_20library_0',['IO expander MCP23017 breakout Arduino library',['../index.html',1,'']]]
 ];
