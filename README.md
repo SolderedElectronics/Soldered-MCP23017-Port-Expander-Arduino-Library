@@ -6,7 +6,7 @@
 
 | ![IO expander MCP23017 breakout](https://github.com/SolderedElectronics/IO-expander-MCP23017-breakout-hardware-design/blob/main/OUTPUTS/V1.1.1/333007.jpg) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                               [IO expander MCP23017 breakout](https://www.solde.red/333007)                                                |
+|                                               [IO expander MCP23017 breakout](https://solde.red/333007)                                                |
 
 Are you short on IO pins? Looking to increase the number of them? That’s what the GPIO Expander MCP23017 is for! It uses I2C communication to do so. With just two wires, 16 new fully configurable digital IO pins are added to a microcontroller.
 
@@ -19,7 +19,7 @@ Due to the jumpers on the board, the I2C address of a device can be changed. Thu
 - Communication: I2C (address: 0x27)
 - Connectors: easyC x2
 - Mounting holes: 2
-  (https://www.soldered.com/en/easyC)
+  (https://www.soldered.com/easyC)
 
 ### Repository Contents
 
