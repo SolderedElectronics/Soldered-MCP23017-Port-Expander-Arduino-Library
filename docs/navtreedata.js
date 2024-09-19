@@ -26,7 +26,7 @@ var NAVTREE =
 [
   [ "MCP_23017 Library", "index.html", [
     [ "IO expander MCP23017 breakout Arduino library", "index.html", "index" ],
-    [ "LICENSE", "md_src_libs_arduino_mcp23017__l_i_c_e_n_s_e.html", null ],
+    [ "LICENSE", "md_src_2libs_2arduino-mcp23017_2_l_i_c_e_n_s_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['license_0',['LICENSE',['../md_src_libs_arduino_mcp23017__l_i_c_e_n_s_e.html',1,'']]],
-  ['license_2emd_1',['LICENSE.md',['../_l_i_c_e_n_s_e_8md.html',1,'']]]
+  ['hardware_20design_0',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['have_20fun_1',['Have fun!',['../index.html#autotoc_md8',1,'']]]
 ];

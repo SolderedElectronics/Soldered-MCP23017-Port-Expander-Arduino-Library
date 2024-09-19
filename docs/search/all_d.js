@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['read_0',['read',['../class_m_c_p23017.html#ad9b2aa218f2eaf8e6499433bb3d6434b',1,'MCP23017']]],
-  ['readdata_1',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_2',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readport_3',['readPort',['../class_m_c_p23017.html#a3c55c8c860f201676435f5d8f0d42c8f',1,'MCP23017']]],
-  ['readregister_4',['readRegister',['../class_m_c_p23017.html#acf3ee40e83607bf31ebcd0df112b874e',1,'MCP23017::readRegister(MCP23017Register reg)'],['../class_m_c_p23017.html#af48be8a65fd8257be56129c7989e4fa4',1,'MCP23017::readRegister(MCP23017Register reg, uint8_t &amp;portA, uint8_t &amp;portB)'],['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC::readRegister()']]]
+  ['olat_5fa_0',['OLAT_A',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0aa19b37309bcc34f1a599e2018de3473b',1,'MCP23017.h']]],
+  ['olat_5fb_1',['OLAT_B',['../_m_c_p23017_8h.html#a78c51123d37459475c8032aa50e94fd0a2e35cddcf66078bc4a9975c973c4d5af',1,'MCP23017.h']]],
+  ['open_20source_20license_2',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['operator_2b_3',['operator+',['../_m_c_p23017_8h.html#aeb7c570654b2fc58bbb80221b0b23134',1,'MCP23017.h']]],
+  ['or_4',['Or',['../_m_c_p23017_8h.html#abec9eac3221936d22ebb07c939639c84a3a2d5fe857d8f9541136a124c2edec6c',1,'MCP23017.h']]],
+  ['original_20source_5',['Original source',['../index.html#autotoc_md6',1,'']]]
 ];
